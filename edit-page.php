@@ -17,4 +17,4 @@
             </div>
         </form>
 
-         <a href="index.php"><button>Voltar</button></a>
+         <a href="index.php"><button class="btnv">Voltar</button></a>

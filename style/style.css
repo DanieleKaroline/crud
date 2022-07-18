@@ -1,7 +1,7 @@
 .form{
     padding-top: 2%;
-    padding-bottom: 10%;
-    background-color: rgb(142, 209, 187);
+    padding-bottom: 8%;
+    background-color: rgb(142, 158, 209);
     height: 20%;
     width: 25%;
     text-align: center;
@@ -23,7 +23,7 @@
     width: 80%;
 }
 .form button:hover{
-    background-color: rgb(161, 167, 253);
+    background-color: rgb(86, 90, 139);
 }
 .form h3{
     color: white;
@@ -32,7 +32,7 @@
 .tbl{
     padding-top: 2%;
     padding-bottom: 2%;
-    background-color: rgb(142, 209, 187);
+    background-color: rgb(142, 158, 209);
     height: auto;
     width: 40%;
     text-align: center;
@@ -44,10 +44,22 @@
 
 .tbl td{
     font-weight: 500;
-    color:rgb(0, 0, 0);
+    color:rgb(39, 40, 41);
 }
 
 a{
     text-decoration: none;
-    color: yellow;
+    color: rgb(39, 40, 41);
+}
+.btnv{
+    border:none;
+    background-color: rgb(97, 105, 223);
+    border-radius: 4px;
+    color:cornsilk;
+    height: 5%;
+    margin-left: 40%;
+    width: 15%;
+}
+.btnv:hover{
+    background-color: rgb(86, 90, 139);
 }
